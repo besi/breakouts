@@ -1,4 +1,4 @@
-(module "WIFIM-SMD_ESP-07" (layer F.Cu) (tedit 65F07E34)
+(module "WIFIM-SMD_ESP-07" (layer F.Cu) (tedit 65F08A89)
   (descr "WIFIM-SMD_ESP-07 footprint")
   (tags "WIFIM-SMD_ESP-07 footprint C82894")
   (attr smd)
